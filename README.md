@@ -11,22 +11,20 @@ An effort to congele the low-viscosity flow of conceptual synaptic fluid into a 
 					<i>&nbsp;Real-Time Analysis</i>
 						<ol>
 							<li>Fast Fourier Transform (fft)</li>
-							<li></li>
 						</ol>
 				</li>
 				<li><b>Feature Extraction</b>
 					<i>&nbsp;Data Comparison</i>
 						<ol>
 							<li>Routing to Tables</li>
-							<li></li>
+							<li><a href="https://github.com/dfm/emcee.git" target="_blank">emcee</a> for parameter comparison and estimation.</li>
+							<li><s><a href="http://msp.org/camcos/2010/5-1/p04.xhtml" target="_blank">Ensemble Samplers</a></s></li>
 						</ol>
 				</li>
 				<li><b>Quick Data <s>Visualization</s> Access</b>
 					<i>&nbsp;Extremely fast interaction with data via GUI</i>
 						<ol>
 							<li><a href="http://square.github.io/crossfilter/" target="_blank">Crossfilter</a>-like access to data.</li>
-							<li><a href="https://github.com/dfm/emcee.git" target="_blank">emcee</a> for parameter comparison and estimation.</li>
-							<li><s><a href="http://msp.org/camcos/2010/5-1/p04.xhtml" target="_blank">Ensemble Samplers</a></s></li>
 						</ol>
 				</li>
 		</ul>
