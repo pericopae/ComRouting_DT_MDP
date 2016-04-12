@@ -4,7 +4,7 @@ An effort to congele the low-viscosity flow of conceptual synaptic fluid into a 
 
 <dl>What is this?
 	<dt>Concept</dt>
-			<dd>A web toolkit to rapidly search a large, multivariate database of notation files that represent sequential streams of musical data, in order to trigger interactive playback and transformation in real-time, while continuously comparing the playback stream to a base of pre-defined, yet flexible notation parameters.<dd>
+			<dd>A <s>web</s> toolkit to rapidly search a large, multivariate database of notation files that represent sequential streams of musical data, in order to trigger interactive playback and transformation in real-time, while continuously comparing the playback stream to a base of pre-defined, yet flexible notation parameters.<dd>
 	<dt>Feature Wishlist</dt>
 		<ul>
 				<li><b>Signal Processing</b>
