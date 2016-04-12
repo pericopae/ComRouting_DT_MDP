@@ -11,6 +11,14 @@ An effort to congele the low-viscosity flow of conceptual synaptic fluid into a 
 					<i>&nbsp;Real-Time Analysis</i>
 						<ol>
 							<li>Fast Fourier Transform (fft)</li>
+							<li></li>
+						</ol>
+				</li>
+				<li><b>Feature Extraction</b>
+					<i>&nbsp;Data Comparison</i>
+						<ol>
+							<li>Routing to Tables</li>
+							<li></li>
 						</ol>
 				</li>
 				<li><b>Quick Data <s>Visualization</s> Access</b>
