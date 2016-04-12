@@ -7,6 +7,12 @@ An effort to congele the low-viscosity flow of conceptual synaptic fluid into a 
 			<dd>A web toolkit to rapidly search a large, multivariate database of notation files that represent sequential streams of musical data, in order to trigger interactive playback and transformation in real-time, while continuously comparing the playback stream to a base of pre-defined, yet flexible notation parameters.<dd>
 	<dt>Feature Wishlist</dt>
 		<ul>
+				<li><b>Signal Processing</b>
+					<i>&nbsp;Real-Time Analysis</i>
+						<ol>
+							<li>Fast Fourier Transform (fft)</li>
+						</ol>
+				</li>
 				<li><b>Quick Data <s>Visualization</s> Access</b>
 					<i>&nbsp;Extremely fast interaction with data via GUI</i>
 						<ol>
