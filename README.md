@@ -24,7 +24,15 @@ An effort to congele the low-viscosity flow of conceptual synaptic fluid into a 
 				<li><b>Quick Data <s>Visualization</s> Access</b>
 					<i>&nbsp;Extremely fast interaction with data via GUI</i>
 						<ol>
+						  <li><a href="https://github.com/mmckegg/json-query" target="_blank">Data Retrieval</a>
 							<li><a href="http://square.github.io/crossfilter/" target="_blank">Crossfilter</a>-like access to data.</li>
+						</ol>
+				</li>
+				<li><b>Web MIDI</b>
+					<i>&nbsp;Network Integration</i>
+						<ol>
+						  <li><a href="https://github.com/mmckegg" target="_blank">Some Examples</a>
+							<li><a href="https://github.com/WebAudio/web-midi-api" target="_blank">W3C Web Audio/MIDI Integration</li>
 						</ol>
 				</li>
 		</ul>
